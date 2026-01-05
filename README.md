@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio website built using **React**, **Vite**, and **Tailwind CSS**.  
 This portfolio showcases my skills, education, projects, and work experience, and includes a contact form powered by **EmailJS**.
 
-🔗 **Live Demo:** https://dula21.github.io/dulasi-portfolio/react/
+🔗 **Live Demo:** https://dula21.github.io/dulasi-portfolio
 
 ---
 
