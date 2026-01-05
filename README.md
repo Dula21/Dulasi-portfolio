@@ -69,8 +69,19 @@ npm run dev
 
 If you'd like to collaborate or get in touch:
 
-📧 Email: (add your email here if you want)
+📧 Email: nethmadulasi15@gmail.com
 
 💼 LinkedIn: (optional)
 
 🧑‍💻 GitHub: https://github.com/Dula21
+
+
+---
+##📄 License
+
+This project is open-source and available for personal and educational use.
+
+---
+## Speacial Thanks to
+@Pedro Tech Youtube Channel
+
