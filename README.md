@@ -86,7 +86,7 @@ This project is open-source and available for personal and educational use.
 ```bash
 git clone https://github.com/Dula21/dulasi-portfolio.git
 cd dulasi-portfolio
----
+
 ```
 ### 2️⃣ Install dependencies
 ```bash
