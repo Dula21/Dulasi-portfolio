@@ -8,6 +8,7 @@ This portfolio showcases my skills, education, projects, and work experience, an
 ---
 <img width="1254" height="636" alt="image" src="https://github.com/user-attachments/assets/d898bff8-9f9a-41ad-9cdb-b5ba3b390280" />
 ---
+
 ## ✨ Features
 
 - ⚡ Fast and lightweight setup using **Vite**
