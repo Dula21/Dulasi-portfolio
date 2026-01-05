@@ -57,7 +57,7 @@ This portfolio showcases my skills, education, projects, and work experience, an
 ### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Dula21/dulasi-portfolio.git
-cd dulasi-portfolio/react
+cd dulasi-portfolio
 
 Install dependencies
 npm install
