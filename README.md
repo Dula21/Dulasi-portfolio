@@ -51,7 +51,8 @@ This portfolio showcases my skills, education, projects, and work experience, an
 
 
 ---
-📬 Contact
+
+## 📬 Contact
 
 If you'd like to collaborate or get in touch:
 
@@ -64,7 +65,7 @@ If you'd like to collaborate or get in touch:
 
 ---
 
-##📄 License
+## 📄 License
 
 This project is open-source and available for personal and educational use.
 
